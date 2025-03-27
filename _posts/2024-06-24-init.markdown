@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Initial post"
+mermaid: true
+---
+
+## Henlo
+
+Just a post to check if I haven't screwed something up. 🤓
+
+And while we're at it here's a mermaid diagram, cause those are cool (...right?).
+
+
+```mermaid
+pie title Pets adopted by volunteers
+    "Dogs" : 386
+    "Cats" : 85
+    "Rats" : 15
+```
+
+
+edit: new theme Chirpy supports mermaidJS right from the start yippee :)
